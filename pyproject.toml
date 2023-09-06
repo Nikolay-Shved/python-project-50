@@ -15,6 +15,11 @@ python = "^3.10"
 gendiff = "hexlet_code.scripts.gendiff:main"
 
 
+packages = [
+  { include = "gendiff" },
+]
+
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
