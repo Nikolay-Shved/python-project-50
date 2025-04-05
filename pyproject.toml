@@ -2,8 +2,8 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = "difference calculator"
-authors = ["Aleksey Chudinov <alekseychudinov@gmail.com>"]
-repository = "https://github.com/alekseychudinov/python-project-lvl2"
+authors = ["Nikolay Shved <viktor.vaskes44@gmail.com>"]
+repository = "https://github.com/Nikolay-Shved/python-project-50/tree/main"
 readme = "README.md"
 classifiers = [
  "Programming Language :: Python :: 3.10"
